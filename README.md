@@ -24,7 +24,7 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/diljeet-2)  
 - 🌱 I’m currently learning **JavaScript, Node.js, Django, Flask**  
 - 💬 Ask me about **React, Vue.js, GSAP, REST APIs, MongoDB**  
-- 📫 How to reach me: **yourmail@example.com**  
+- 📫 How to reach me: **diljeetsajnani15@gmail.com**  
 
 ---
 
