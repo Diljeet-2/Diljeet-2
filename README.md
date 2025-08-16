@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone 👋, I'm Diljeet</h1>
+<h1 align="center">Hey Everyone 👋, I'm Diljeet Sajnani</h1>
 
 <div align="center">
   <img src="https://github.com/diljeet-2/diljeet-2/blob/main/Banner.png" alt="Diljeet Banner">
