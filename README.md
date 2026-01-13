@@ -5,7 +5,7 @@
   <img src="https://github.com/diljeet-2/diljeet-2/blob/main/Banner.png" alt="Diljeet Banner">
 </div>
 
-<h3 align="center">💻 Full Stack Web Developer | JavaScript Enthusiast | Lifelong Learner</h3>
+<h3 align="center">💻 Full Stack Web Developer | (MERN) Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://github.com/diljeet-2">
