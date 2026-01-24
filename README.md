@@ -1,9 +1,8 @@
 
 <h1 align="center">Hey Everyone 👋, I'm Diljeet Sajnani</h1>
-
-<div align="center">
-  <img src="https://github.com/diljeet-2/diljeet-2/blob/main/Banner.png" alt="Diljeet Banner">
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/diljeet-2/diljeet-2/main/Github%20Banner.png" alt="Diljeet Banner" />
+</p>
 
 <h3 align="center">💻 Full Stack Web Developer | (MERN) Enthusiast | Lifelong Learner</h3>
 
