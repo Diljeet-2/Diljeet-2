@@ -2,7 +2,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Diljeet Sajnani</h1>
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/diljeet-2/diljeet-2/main/banner.png"
+    src="https://raw.githubusercontent.com/diljeet-2/diljeet-2/main/Github Banner.png"
     alt="Diljeet Banner"
     style="max-width:100%; height:300px; object-fit:cover;"
   />
